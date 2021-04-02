@@ -1,2 +1,3 @@
-# ant-simulation
+# Ant Simulation
+
 A simulation of an ant ecosystem
